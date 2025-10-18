@@ -5,14 +5,14 @@ Final Assignment Instructions for "Tools for Data Science" course
 Final Assignment Instructions: Create and Share Your Jupyter Notebook
 Estimated Time: 30 mins
 
-Objective
+**Objective**
 In this final assignment, you will:
 
-Create a Jupyter Notebook
+- Create a Jupyter Notebook
 
-Insert code and markdown cells
+- Insert code and markdown cells
 
-Share your notebook through GitHub
+- Share your notebook through GitHub
 
 Instructions
 Note - Screenshots
